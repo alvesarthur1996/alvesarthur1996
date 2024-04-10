@@ -21,7 +21,7 @@ _Based in Brazil, preparing to code whole world!_
 - **Libraries:** Phaser 3
 - **Frontend:** HTML5, CSS3, TailwindCSS, SASS, Livewire, React.Js
 - **Backend:** MySQL, MSSQL, Node.js, PostgreSQL
-- **Tools:** Git, Vite, Webpack, Composer, Yarn/Npm
+- **Tools:** Git, Vite, Webpack, Composer, Yarn/Npm, Heroku
 - **Other:** RESTful APIs
 
 ## Projects
