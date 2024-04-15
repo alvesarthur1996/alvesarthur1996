@@ -41,6 +41,6 @@ Here are some notable projects I've worked on:
 
 - 📧 Email: arthur_alves.santos@outlook.com.br
 - 💼 LinkedIn: [linkedin.com/in/arthursantos1996](https://linkedin.com/in/arthursantos1996)
-- 🌐 Website: Avalon Web Systems (Coming soon) 🛠️👷🏻‍♂️🚧
+- 🌐 Website: [Avalon Web Systems](https://avalonweb.com.br/)
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
