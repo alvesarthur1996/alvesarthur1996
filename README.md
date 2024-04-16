@@ -1,4 +1,6 @@
-# ***Over here Stranger, welcome!*** 👋
+# ***Greetings, coding explorer... Welcome to my digital realm!*** 👋
+### *Debug, you must. Understand the force of your errors, you will. - Yoda, Master*
+
 
 I'm Arthur, a passionate Full Stack Web Developer. Welcome to my GitHub profile!
 
