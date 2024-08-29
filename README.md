@@ -37,6 +37,8 @@ Here are some notable projects I've worked on:
   <img src="https://raw.githubusercontent.com/alvesarthur1996/SaveTheChristmasGame/main/src/assets/sprites/characters/santa_claus/santa_claus.png" style="height:100px;width:100px;"/>
   <img src="https://raw.githubusercontent.com/alvesarthur1996/SaveTheChristmasGame/main/src/assets/images/loading_stages/gingermad_loading.jpeg" style="height:100px;width:100px;"/>
   <img src="https://raw.githubusercontent.com/alvesarthur1996/SaveTheChristmasGame/main/src/assets/images/santa_avatar.jpg" style="height:100px;width:100px;"/>
+  <img src="https://github.com/user-attachments/assets/2810428d-d62c-4765-b8aa-e4a774d355a9" style="height:100px;width:100px;"/>
+
 </div>
 
 ## Get in Touch
