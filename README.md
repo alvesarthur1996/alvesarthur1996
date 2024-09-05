@@ -14,7 +14,7 @@ _Based in Brazil, preparing to code whole world!_
 - 🌐 Proficient in PHP, JavaScript, Laravel, Node.js
 - ⚙️ Experience with TypeScript, Tailwind CSS, React.js, Livewire
 - 🎓 Bachelor's Degree in Computer Science
-- 👨🏻‍💻 Co-founder and CEO of **Avalon Web Systems**
+- 👨🏻‍💻 Founder and CEO of **Avalon Web Systems**
 
 ## Skills
 
