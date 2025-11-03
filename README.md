@@ -10,7 +10,7 @@ _Based in Brazil, preparing to code whole world!_
 
 ## About Me
 
-- 💻 Full Stack Web Developer at IBL Grupo
+- 💻 Full Stack Web Developer at Avalon
 - 🌐 Proficient in PHP, JavaScript, Laravel, Node.js
 - ⚙️ Experience with TypeScript, Tailwind CSS, React.js, Livewire
 - 🎓 Bachelor's Degree in Computer Science
